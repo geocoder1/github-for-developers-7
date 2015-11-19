@@ -4,3 +4,5 @@
  - [ ] vindalu
  - [ ] Fishing
  - [ ] Green Hooptie
+ - [ ] Favorite Area is CenTex
+
